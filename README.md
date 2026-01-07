@@ -2,6 +2,7 @@
 
 ## 🌟 Overview
 [cite_start]MedAnalytica is a digital health assistant designed to help patients interpret complex lab results instantly[cite: 7, 20].
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/a30dd652-32d8-4008-94f0-78dc6f6b45ce" />
 
 ## 🛠️ Tech Stack
 - [cite_start]**Language:** Python [cite: 31]
